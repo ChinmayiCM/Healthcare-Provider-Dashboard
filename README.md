@@ -60,7 +60,7 @@ The dashboard helps healthcare administrators monitor financial performance, ide
 
 ## 📸 Dashboard Preview
 
- [*(Replace the image below with your dashboard screenshot.)*](https://github.com/ChinmayiCM/Healthcare-Provider-Dashboard/blob/main/Healthcare%20Provider%20db.png)
+(https://github.com/ChinmayiCM/Healthcare-Provider-Dashboard/blob/main/Healthcare%20Provider%20db.png)
 
-![Healthcare Provider Dashboard](dashboard.png)
+
 
